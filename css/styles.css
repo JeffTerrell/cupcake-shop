@@ -24,7 +24,7 @@ img {
   margin-right: auto;
  }
 
- body {
+body {
   background-image: url("https://bit.ly/3vmvyEN");
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -33,7 +33,6 @@ img {
   padding: 200px 0;
  }
 
- img .cupcake {
-  margin-left: auto;
-  margin-right: auto;
- }
+img .cupcake {
+  text-align: center;
+}
