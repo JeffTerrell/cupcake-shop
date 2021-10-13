@@ -1,0 +1,34 @@
+h1 {
+  color: rgb(8, 8, 78);
+}
+
+h2 {
+  color: silver;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+	width: 300px;
+}
+
+.frame {
+	margin: 2px;
+	border: 5px solid black;
+	padding: 5px;
+  width: 300px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+ }
+
+ body {
+  background-image: url("https://bit.ly/3vmvyEN");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  text-align: center;
+  padding: 200px 0;
+ }
